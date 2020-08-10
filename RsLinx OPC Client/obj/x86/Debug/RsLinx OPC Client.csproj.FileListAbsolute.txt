@@ -1,0 +1,48 @@
+c:\users\mesta\documents\visual studio 2010\Projects\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\RsLinx OPC Client.exe
+c:\users\mesta\documents\visual studio 2010\Projects\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\RsLinx OPC Client.pdb
+c:\users\mesta\documents\visual studio 2010\Projects\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mesta\documents\visual studio 2010\Projects\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx_OPC_Client.Form1.resources
+c:\users\mesta\documents\visual studio 2010\Projects\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx_OPC_Client.Properties.Resources.resources
+c:\users\mesta\documents\visual studio 2010\Projects\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mesta\documents\visual studio 2010\Projects\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mesta\documents\visual studio 2010\Projects\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.exe
+c:\users\mesta\documents\visual studio 2010\Projects\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.pdb
+C:\Users\Mesta\Desktop\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.exe
+C:\Users\Mesta\Desktop\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.pdb
+C:\Users\Michele\Desktop\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.exe
+C:\Users\Michele\Desktop\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.pdb
+C:\Users\Michele\Desktop\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\RsLinx OPC Client.exe
+C:\Users\Michele\Desktop\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\RsLinx OPC Client.pdb
+C:\Users\Michele\Desktop\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michele\Desktop\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx_OPC_Client.Form1.resources
+C:\Users\Michele\Desktop\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx_OPC_Client.Properties.Resources.resources
+C:\Users\Michele\Desktop\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michele\Desktop\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\RsLinx OPC Client.exe.config
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\RsLinx OPC Client.exe
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\RsLinx OPC Client.pdb
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\DeviceCommon.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\DeviceOpcNet.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\DeviceService.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\Newtonsoft.Json.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\OpcNetApi.Com.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\OpcNetApi.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\OpcNetApi.Xml.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\System.Net.Http.Formatting.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\Newtonsoft.Json.xml
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\System.Net.Http.Formatting.xml
+D:\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\Interop.OpcEnumLib.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.csproj.ResolveComReference.cache
+D:\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx_OPC_Client.Form1.resources
+D:\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx_OPC_Client.Properties.Resources.resources
+D:\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.csproj.GenerateResource.cache
+D:\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.csproj.CoreCompileInputs.cache
+D:\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.csproj.CopyComplete
+D:\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.exe
+D:\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.pdb
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\OpcRcw.Comn.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\OpcRcw.Ae.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\OpcRcw.Da.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\OpcRcw.Hda.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\bin\Debug\OpcRcw.Dx.dll
+D:\RsLinx OPC Client\RsLinx OPC Client\obj\x86\Debug\RsLinx OPC Client.csprojAssemblyReference.cache
